@@ -3,6 +3,15 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1.5em;
+  }
+  … h2 {
+    font-size: 2.5em;
+  }
+}
+
 .main-container {
   display: flex;
   flex-direction: row-reverse;
@@ -107,10 +116,6 @@ body {
   font-weight: bold;
   color: #000;
 }
-.about-me-section {
-}
-.my-projects-section {
-}
 
 /* My work experience */
 .work-item {
@@ -125,17 +130,12 @@ body {
 .divider {
   color: #000;
 }
-.my-work-experience {
-}
-.my-education {
-}
 
 /* Side bar */
 .side-bar {
   background-color: #1e2939;
   width: 370px;
   padding: 40px 0;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
 }
 .contact-section,
 .tech-skills-section,
