@@ -1,0 +1,201 @@
+body {
+  background-color: #f5f7fa;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Main content section */
+.main-content {
+  padding: 100px 90px;
+}
+.about_me_profession {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 20px;
+  color: #000;
+}
+.about-me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  margin-bottom: 25px;
+  color: #000;
+}
+.about-me-description {
+  width: 400px;
+  left: 498px;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 40px;
+  color: #595959;
+}
+.main-content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  margin-top: 45px;
+  margin-bottom: 10px;
+  color: #000;
+}
+
+/* Periods */
+.periods {
+  font-size: 14px;
+  color: #a8a8a8;
+}
+
+/* logo */
+.logo {
+  object-fit: contain;
+  position: absolute;
+  width: 485px;
+  height: 107px;
+  left: 685px;
+  top: 652px;
+}
+.logoone {
+  object-fit: contain;
+  position: absolute;
+  width: 113px;
+  height: 107px;
+  left: 920px;
+  top: 845px;
+}
+.logotwo {
+  object-fit: contain;
+  position: absolute;
+  width: 100px;
+  height: 107px;
+  left: 865px;
+  top: 1065px;
+}
+/* Project list */
+.projects-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 30px;
+  color: #595959;
+}
+.num {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0 0 0 17px;
+}
+.link-item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fb6d3a;
+}
+.bracket {
+  font-weight: bold;
+  color: #000;
+}
+.about-me-section {
+}
+.my-projects-section {
+}
+
+/* My work experience */
+.work-item {
+  padding: 0 0 0 0px;
+}
+.num-work {
+  padding: 0 0 0 17px;
+}
+.firm-section {
+  color: #fb6d3a;
+}
+.divider {
+  color: #000;
+}
+.my-work-experience {
+}
+.my-education {
+}
+
+/* Side bar */
+.side-bar {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
+}
+.contact-section,
+.tech-skills-section,
+.soft-skills-section {
+  margin: 50px 0 0 40px;
+}
+.side-bar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* Contacts section */
+.contact-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 5px;
+}
+.contact-section-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #8e949c;
+}
+.list {
+  padding-left: 17px;
+}
+.item {
+  color: #fb6d3a;
+}
+.item-text {
+  color: #fff;
+}
+
+/* logo social networks */
+.logo_contacts {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  left: 253px;
+  top: 737px;
+}
+.logo_vk {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 295px;
+  top: 737px;
+}
+.logo_insta {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 335px;
+  top: 731px;
+}
