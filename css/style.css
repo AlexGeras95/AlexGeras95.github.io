@@ -66,22 +66,19 @@ body {
 
 /* logo */
 .logo {
-  object-fit: contain;
-  position: absolute;
-  left: 945px;
-  top: 619px;
+  position: relative;
+  right: 40px;
+  bottom: 3px;
 }
 .logoone {
-  object-fit: contain;
-  position: absolute;
-  left: 1040px;
-  top: 871px;
+  position: relative;
+  left: 335px;
+  bottom: 33px;
 }
 .logotwo {
-  object-fit: contain;
-  position: absolute;
-  left: 970px;
-  top: 1100px;
+  position: relative;
+  left: 255px;
+  bottom: 54px;
 }
 /* Project list */
 .projects-link {
@@ -169,26 +166,4 @@ body {
 }
 .item-text {
   color: #fff;
-}
-
-/* logo social networks */
-.logo_contacts {
-  position: absolute;
-  left: 272px;
-  top: 737px;
-}
-.logo_vk {
-  position: absolute;
-  left: 312px;
-  top: 737px;
-}
-.logo_insta {
-  position: absolute;
-  left: 350px;
-  top: 731px;
-}
-.logo_git {
-  position: absolute;
-  left: 399px;
-  top: 736px;
 }
