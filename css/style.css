@@ -174,29 +174,21 @@ body {
 /* logo social networks */
 .logo_contacts {
   position: absolute;
-  width: 35px;
-  height: 35px;
   left: 272px;
   top: 737px;
 }
 .logo_vk {
   position: absolute;
-  width: 34px;
-  height: 34px;
   left: 312px;
   top: 737px;
 }
 .logo_insta {
   position: absolute;
-  width: 45px;
-  height: 45px;
   left: 350px;
   top: 731px;
 }
 .logo_git {
   position: absolute;
-  width: 34px;
-  height: 34px;
   left: 399px;
   top: 736px;
 }
