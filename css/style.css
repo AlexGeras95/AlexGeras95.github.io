@@ -3,7 +3,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-}
 @media screen and (max-width: 600px) {
   body {
     font-size: 1em;
@@ -74,7 +73,7 @@ body {
 .logoone {
   position: relative;
   bottom: 34px;
-  left: 330px;
+  left: 328px;
   right: 0px;
 }
 .logotwo {
