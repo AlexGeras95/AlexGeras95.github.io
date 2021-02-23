@@ -2,8 +2,7 @@ body {
   background-color: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
 }
-img {
-   max-width: 100%;
+
 }
 @media screen and (max-width: 600px) {
   body {
