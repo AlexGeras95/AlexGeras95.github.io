@@ -2,15 +2,8 @@ body {
   background-color: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
 }
-@media screen and (min-device-width: 1600px) {
-    div {width: 1500px;}
-   }
-   @media screen and (device-width: 1280px) {
-    div {width: 1100px;}
-   }
-   @media screen and (device-width: 1024px) {
-    div {width: 980px;}
 
+@media (min-width: 600px) and (max-width: 800px)
 
 
 .main-container {
