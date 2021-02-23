@@ -68,26 +68,22 @@ body {
 .logo {
   object-fit: contain;
   position: absolute;
-  width: 485px;
-  height: 107px;
-  left: 685px;
-  top: 652px;
+  width: 365px;
+  height: 100px;
+  left: 842px;
+  top: 619px;
 }
 .logoone {
   object-fit: contain;
   position: absolute;
-  width: 113px;
-  height: 107px;
-  left: 920px;
-  top: 845px;
+  left: 1040px;
+  top: 871px;
 }
 .logotwo {
   object-fit: contain;
   position: absolute;
-  width: 100px;
-  height: 107px;
-  left: 865px;
-  top: 1065px;
+  left: 970px;
+  top: 1100px;
 }
 /* Project list */
 .projects-link {
@@ -182,20 +178,27 @@ body {
   position: absolute;
   width: 35px;
   height: 35px;
-  left: 253px;
+  left: 272px;
   top: 737px;
 }
 .logo_vk {
   position: absolute;
   width: 34px;
   height: 34px;
-  left: 295px;
+  left: 312px;
   top: 737px;
 }
 .logo_insta {
   position: absolute;
   width: 45px;
   height: 45px;
-  left: 335px;
+  left: 350px;
   top: 731px;
+}
+.logo_git {
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  left: 399px;
+  top: 736px;
 }
