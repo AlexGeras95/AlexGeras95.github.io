@@ -5,21 +5,14 @@ body {
 img {
    max-width: 100%;
 }
-
-@media all and (orientation: landscape) {
-  /* Target device in landscape mode */
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 1em;
+  }
+  … h2 {
+    font-size: 1.5em;
+  }
 }
-
-@media all and (orientation: portrait) {
-  /* Target device in portrait mode */
-}
-
-@media screen and (max-width: 800px) {
-}
-
-@media screen and (min-width: 600px) {
-}
-
 
 .main-container {
   display: flex;
