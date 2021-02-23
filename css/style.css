@@ -4,7 +4,7 @@ body {
 }
 
 [class*="col-"] {
-        width: 30%;
+        width: 130%;
            }
           @media only screen and (min-width: 600px) {
          /* For tablets: */
