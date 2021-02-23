@@ -3,6 +3,9 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+img {
+   max-width: 70%;
+}
 @media screen and (max-width: 600px) {
   body {
     font-size: 1.5em;
