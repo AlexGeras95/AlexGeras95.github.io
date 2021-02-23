@@ -74,10 +74,9 @@ img {
 }
 .logoone {
   position: relative;
-  top: 
+  bottom: 34px;
   left: 328px;
   right: 0px;
-  bottom: 34px;
 }
 .logotwo {
   position: relative;
