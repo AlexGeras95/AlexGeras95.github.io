@@ -3,7 +3,7 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 img {
-   max-width: 100%;
+   max-width: 70%;
 }
 @media screen and (max-width: 600px) {
   body {
