@@ -68,8 +68,6 @@ body {
 .logo {
   object-fit: contain;
   position: absolute;
-  width: 365px;
-  height: 100px;
   left: 842px;
   top: 619px;
 }
