@@ -2,8 +2,23 @@ body {
   background-color: #f5f7fa;
   font-family: 'Montserrat', sans-serif;
 }
+img {
+   max-width: 100%;
+}
 
-@media (min-width: 600px) and (max-width: 800px)
+@media all and (orientation: landscape) {
+  /* Target device in landscape mode */
+}
+
+@media all and (orientation: portrait) {
+  /* Target device in portrait mode */
+}
+
+@media screen and (max-width: 800px) {
+}
+
+@media screen and (min-width: 600px) {
+}
 
 
 .main-container {
