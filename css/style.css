@@ -5,10 +5,10 @@ body {
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: 1.5em;
+    font-size: 1em;
   }
   … h2 {
-    font-size: 2.5em;
+    font-size: 44em;
   }
 }
 
@@ -18,19 +18,19 @@ body {
   width: 1200px;
   background-color: #fff;
   margin: 40px auto;
-  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.5);
 }
 
 /* Main content section */
 .main-content {
-  padding: 100px 90px;
+  padding: 70px 90px 0px 65px;
 }
 .about_me_profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
-  line-height: 17px;
-  margin-bottom: 20px;
+  font-size: 21px;
+  line-height: 15px;
+  margin-bottom: 30px;
   color: #000;
 }
 .about-me-name {
@@ -46,7 +46,7 @@ body {
   left: 498px;
   font-size: 18px;
   line-height: 24px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   color: #595959;
 }
 .main-content-title {
@@ -54,33 +54,27 @@ body {
   font-weight: bold;
   font-size: 22px;
   margin-top: 45px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   color: #000;
+}
+
+.name-exp {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 45px;
+  margin-bottom: 5px;
+  padding-bottom: 3px;
 }
 
 /* Periods */
 .periods {
+  padding: 0px;
   font-size: 14px;
   color: #a8a8a8;
 }
 
-/* logo */
-.logo {
-  position: relative;
-  right: 40px;
-  bottom: 3px;
-}
-.logoone {
-  position: relative;
-  bottom: 34px;
-  left: 328px;
-  right: 0px;
-}
-.logotwo {
-  position: relative;
-  left: 255px;
-  bottom: 54px;
-}
 /* Project list */
 .projects-link {
   font-style: normal;
@@ -115,6 +109,10 @@ body {
 
 /* My work experience */
 .work-item {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
   padding: 0 0 0 0px;
 }
 .num-work {
@@ -127,8 +125,14 @@ body {
   color: #000;
 }
 .my-work-experience {
+  padding-bottom: 20px;
 }
 .my-education {
+  width: 400px;
+  left: 498px;
+  font-size: 18px;
+  line-height: 24px;
+  padding-bottom: 0px;
 }
 
 /* Side bar */
@@ -136,6 +140,7 @@ body {
   background-color: #1e2939;
   width: 370px;
   padding: 40px 0;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.3);
 }
 .contact-section,
 .tech-skills-section,
